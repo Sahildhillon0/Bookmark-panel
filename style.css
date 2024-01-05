@@ -1,10 +1,40 @@
 body{
-    background-color: beige;
+    background-color: rgb(34, 34, 31); 
+    
 }
 h1{
-    color: rgb(131, 29, 29);
+    color: rgb(66, 55, 55);
+    background-color:rgb(147, 132, 132);
+    border-top-left-radius: 15%;
+    border-top-right-radius: 15%;
+    cursor:grab;
+    text-indent: 45%;
+    border-style: outset;
+    border-color: black;
 }
 a{
-    color: rgb(131, 29, 29);
+    color: rgb(176, 141, 141);
     cursor:pointer;
+}
+td{
+    border-style:solid;
+    border-radius: 25%;
+    border-color: rgb(147, 132,132);
+    color: rgb(77,61,61);
+    background-color:rgb(251, 226, 226);
+    border-bottom-left-radius: 15%;
+    border-bottom-right-radius: 15%;
+    border-top-style:dashed;
+    border-bottom-style:dashed;
+}
+img{
+    border-radius: 10%;
+    border-style:ridge;
+    border-block-color: rgb(103, 89, 89);
+    border-block-end-width:4px;
+}
+ol{
+    list-style:lower-greek;
+    color:rgb(34, 34, 31);
+    cursor:default;
 }
