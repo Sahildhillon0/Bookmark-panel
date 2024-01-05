@@ -4,7 +4,8 @@ body{
 }
 h1{
     color: rgb(66, 55, 55);
-    background-color:rgb(147, 132, 132);
+    background: linear-gradient(90deg, #1f1b1b, #ffff, #1f1b1b);
+    /* background-color:rgb(147, 132, 132); */
     border-top-left-radius: 15%;
     border-top-right-radius: 15%;
     cursor:grab;
